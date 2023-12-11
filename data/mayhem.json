@@ -6,5 +6,66 @@
     "verifier": "LordVaderCraft",
     "verification": "https://www.youtube.com/watch?v=U6e6DD32noM",
     "percentToQualify": 47,
-    "records": []
+    "records": [
+         {
+            "user": "SnowBallerr",
+            "link": "https://www.youtube.com/watch?v=lt-XAx_1UD4",
+            "percent": 100,
+            "hz": "360"
+        },
+         {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=QdUPwiwZqq0",
+            "percent": 100,
+            "hz": "360"
+        },
+         {
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=8exaKutKVG0",
+            "percent": 100,
+            "hz": "360"
+        },
+          {
+            "user": "Thnnder",
+            "link": "https://www.youtube.com/watch?v=5DnCB9h9yAs",
+            "percent": 100,
+            "hz": "360"
+        },
+          {
+            "user": "Goozma",
+            "link": "https://www.youtube.com/watch?v=ZibUlXggq64",
+            "percent": 100,
+            "hz": "150 fps 300 tps"
+        },
+          {
+            "user": "TO_KYO",
+            "link": "https://youtu.be/E2G8-kFqtMA?si=d78kywI6qsw5EB3t",
+            "percent": 100,
+            "hz": "360"
+        },
+          {
+            "user": "Cymmas",
+            "link": "https://www.youtube.com/watch?v=UECe0UzKp_M",
+            "percent": 100,
+            "hz": "360"
+        },
+         {
+            "user": "Diris",
+            "link": "https://youtu.be/CCynUEm5fr0?si=IJgUzWeTkWrcsdW_",
+            "percent": 100,
+            "hz": "360"
+        },
+         {
+            "user": "Brumik",
+            "link": "https://youtu.be/jFXs62cgDo8?si=mwyh-JfJceSaTgPU",
+            "percent": 69,
+            "hz": "288"
+        },
+         {
+            "user": "Zaphe",
+            "link": "https://www.youtube.com/watch?v=Co8PZ33cEog",
+            "percent": 54,
+            "hz": "360"
+        }
+    ]
 }
