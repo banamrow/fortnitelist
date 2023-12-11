@@ -6,5 +6,24 @@
     "verifier": "Doggie",
     "verification": "https://youtu.be/b2yHaIk5zio?si=EXjRefySHQBWXKTs",
     "percentToQualify": 56,
-    "records": []
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=ts2VkfMvzqE",
+            "percent": 100,
+            "hz": "360"
+        },
+         {
+            "user": "Quivert",
+            "link": "https://www.youtube.com/watch?v=3hewv5rrfoM",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "Trick",
+            "link": "https://www.youtube.com/watch?v=XMuRV5tSE28",
+            "percent": 100,
+            "hz": "360"
+        },
+    ]
 }
