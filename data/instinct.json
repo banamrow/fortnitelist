@@ -6,5 +6,30 @@
     "verifier": "Blitzer",
     "verification": "https://www.youtube.com/watch?v=6W3Gvi9ft0w",
     "percentToQualify": 55,
-    "records": []
+    "records": [
+       {
+            "user": "RG",
+            "link": "https://www.youtube.com/watch?v=qv1nz0EdXuE",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Hypno",
+            "link": "https://www.youtube.com/watch?v=hYTCAeW0r7I",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "vonic",
+            "link": "https://www.youtube.com/watch?v=mIE1UUNXYcQ",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "BONN GD",
+            "link": "https://www.youtube.com/watch?v=N8E4seFNGNM",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
