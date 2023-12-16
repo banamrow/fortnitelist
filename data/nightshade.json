@@ -6,5 +6,54 @@
     "verifier": "Yakobnugget",
     "verification": "https://www.youtube.com/watch?v=1RiB0qmwE4A",
     "percentToQualify": 52,
-    "records": []
+    "records": [
+        {
+            "user": "Lia",
+            "link": "https://www.youtube.com/watch?v=IYclV0ARYkk",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "BrowarKedawar",
+            "link": "https://www.youtube.com/watch?v=TP_j_uDPQs4",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "DJ1482",
+            "link": "https://www.youtube.com/watch?v=nrsAqGl8xAc",
+            "percent": 100,
+            "hz": "288"
+        },
+        {
+            "user": "LuigiDB",
+            "link": "https://www.youtube.com/watch?v=jqVSECqn0HQ",
+            "percent": 100,
+            "hz": "144"
+        },
+        {
+            "user": "NazCompgames",
+            "link": "https://www.youtube.com/watch?v=KK_RIq8YfTg",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "FloofiWan",
+            "link": "https://www.youtube.com/watch?v=NNg2nCFdaz8",
+            "percent": 100,
+            "hz": "144"
+        },
+        {
+            "user": "skyv",
+            "link": "https://www.youtube.com/watch?v=RHobBt8RAI0",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "WhiteSalmon",
+            "link": "https://www.youtube.com/watch?v=6SUNel7Uy-8",
+            "percent": 100,
+            "hz": "144"
+        }
+    ]
 }
